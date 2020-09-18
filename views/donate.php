@@ -53,6 +53,7 @@ use Destiny\Common\Utils\Tpl;
                     <textarea name="message" autocomplete="off" maxlength="200" rows="3" class="form-control" placeholder="Write a message ..."></textarea>
                 </div>
                 <div class="form-actions">
+                	<p class="agreement">By clicking the &quot;Continue&quot; button, you are confirming that this purchase is what you wanted and that you have read the <a href="/agreement">user agreement</a>.</p>
                     <button class="btn btn-primary btn-lg"><i class="fas fa-shopping-cart"></i> Continue</button>
                     <a href="/" class="btn btn-dark">Cancel</a>
                 </div>
